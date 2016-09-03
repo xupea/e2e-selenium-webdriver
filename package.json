@@ -1,0 +1,15 @@
+{
+  "name": "e2e-selenium-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5",
+    "selenium-webdriver": "^2.53.3"
+  }
+}
